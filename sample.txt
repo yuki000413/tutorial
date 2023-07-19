@@ -3,3 +3,4 @@ add 変更をインデックスに登録する
 add 3
 add 4
 add 6
+add 5
